@@ -1,0 +1,42 @@
+1
+git config --global user.name “[Rodrigo]”
+git config --global user.email “[sastre2905@gmail.com]”
+git config --global color.ui auto
+2
+
+C:\Users\Alumno\GIT>mkdir libro
+
+C:\Users\Alumno\GIT>git init
+
+3
+
+A)C:\Users\Alumno\GIT>git status
+B) C:\Users\Alumno\GIT>echo capitulo 1:introduccion a git > indice.txt
+
+C:\Users\Alumno\GIT>echo capitulo 2:flujo de trabajo basico >> indice.txt
+
+C:\Users\Alumno\GIT>echo capitulo 3:Repositorios remotos >> indice.txt
+
+C)C:\Users\Alumno\GIT>git status
+
+D)C:\Users\Alumno\GIT>git add indice.txt
+
+E)C:\Users\Alumno\GIT>git status
+
+4
+A)C:\Users\Alumno\GIT>git commit -m "he añadido el indice del libro"
+B)C:\Users\Alumno\GIT>git status
+
+5
+A) lo realice desde notepad.
+B)C:\Users\Alumno\GIT>git diff
+C) C:\Users\Alumno\GIT>git commit -m "Añadido capitulo 3 sobre gestion de ramas"
+
+6
+A)C:\Users\Alumno\GIT>git 
+B)C:\Users\Alumno\GIT>git commit --amend -m "Añadido capitulo 3 sobre gestion de ramas al indice."
+C)C:\Users\Alumno\GIT>git diff
+
+
+
+
